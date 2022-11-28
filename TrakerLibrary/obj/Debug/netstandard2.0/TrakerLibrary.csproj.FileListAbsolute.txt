@@ -1,0 +1,8 @@
+D:\Turnament Tracker\TurnamentTracker\TrakerLibrary\bin\Debug\netstandard2.0\TrakerLibrary.deps.json
+D:\Turnament Tracker\TurnamentTracker\TrakerLibrary\bin\Debug\netstandard2.0\TrakerLibrary.dll
+D:\Turnament Tracker\TurnamentTracker\TrakerLibrary\bin\Debug\netstandard2.0\TrakerLibrary.pdb
+D:\Turnament Tracker\TurnamentTracker\TrakerLibrary\obj\Debug\netstandard2.0\TrakerLibrary.csprojAssemblyReference.cache
+D:\Turnament Tracker\TurnamentTracker\TrakerLibrary\obj\Debug\netstandard2.0\TrakerLibrary.AssemblyInfoInputs.cache
+D:\Turnament Tracker\TurnamentTracker\TrakerLibrary\obj\Debug\netstandard2.0\TrakerLibrary.AssemblyInfo.cs
+D:\Turnament Tracker\TurnamentTracker\TrakerLibrary\obj\Debug\netstandard2.0\TrakerLibrary.dll
+D:\Turnament Tracker\TurnamentTracker\TrakerLibrary\obj\Debug\netstandard2.0\TrakerLibrary.pdb

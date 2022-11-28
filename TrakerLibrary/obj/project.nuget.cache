@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6I4sQRR6LNettn9crbZ/FxNZeA1U4qO8C2JzqXNfKA/wboXWVL7cTRiyYVYg07pWToFlZhWBbcgwotwszcTcWA==",
+  "success": true,
+  "projectFilePath": "D:\\Turnament Tracker\\TurnamentTracker\\TrakerLibrary\\TrakerLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\shankhar upadhaya\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\shankhar upadhaya\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

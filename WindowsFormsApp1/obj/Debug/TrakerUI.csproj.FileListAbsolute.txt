@@ -1,0 +1,13 @@
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\obj\Debug\TrakerUI.csprojAssemblyReference.cache
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TurnamentViewerForm.resources
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\obj\Debug\TrakerUI.csproj.GenerateResource.cache
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateTurnamentForm.resources
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreatePrizeForm.resources
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.CreateTeamForm.resources
+D:\Turnament Tracker\TurnamentTracker\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.TournamentDashboardForm.resources
